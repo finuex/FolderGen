@@ -12,7 +12,7 @@ A simple Python application with a graphical user interface (GUI) that helps you
 
 ## 🖥️ GUI Preview
 
-![Screenshot](https://github.com/finuex/FolderGen/blob/main/Screenshot.jpeg)
+![Screenshot](Screenshot.jpeg)
 
 > You can click the "Pilih Direktori & Atur" button to choose a folder and begin organizing.
 
