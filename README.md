@@ -1,4 +1,4 @@
-# Auto File Organizer
+# FolderGen - Auto File Organizer
 
 A simple Python application with a graphical user interface (GUI) that helps you automatically organize files in a selected directory into subfolders based on their file extensions.
 
